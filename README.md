@@ -15,3 +15,5 @@ Visualizaciones Interactivas: Permite a los usuarios generar dos tipos de gráfi
 Histograma de Odómetro: Al hacer clic en el primer botón, se genera un histograma que muestra la distribución del kilometraje (odómetro) de los vehículos en el conjunto de datos. Esto ayuda a entender qué rangos de kilometraje son más comunes.
 
 Gráfico de Dispersión (Precio vs. Año): Al hacer clic en el segundo botón, se construye un gráfico de dispersión que revela la relación entre el precio de un vehículo y su año de fabricación. Esto permite visualizar tendencias, como si los coches más nuevos son consistentemente más caros.
+
+https://sprint-7-t1t5.onrender.com/
